@@ -1,0 +1,29 @@
+{
+  "name": "manga_count",
+  "version": "1.0.0",
+  "description": "Node back for your mangas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitoux/manga_count.git"
+  },
+  "keywords": [
+    "manga",
+    "express"
+  ],
+  "author": "Yann Miloux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bitoux/manga_count/issues"
+  },
+  "homepage": "https://github.com/Bitoux/manga_count#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4",
+    "request": "^2.88.0"
+  }
+}
